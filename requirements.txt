@@ -1,0 +1,7 @@
+opencv-python
+flask
+nltk
+gradio
+numpy
+torch
+
